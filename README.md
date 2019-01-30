@@ -11,9 +11,8 @@ using C/C++
 Development Environments
 ========================  
 
-VS2017(v141)
-Win32 Application
-  
+ubuntu 16.04.10
+gcc (Ubuntu 5.4.0-6ubuntu1~16.04.11) 5.4.0 20160609
   
 blarblarblar
 ============= 
